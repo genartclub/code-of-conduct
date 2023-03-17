@@ -2,7 +2,7 @@
 
 ## Our Goal
 
-This community is dedicated to providing a welcoming and safe environment for everyone. We require that all members are at least 18 years old. This will help us maintain a high bar of accountability and experience for artists, and it will make it easier to deal with scenarios in which artists do not meet that high bar. 
+This community is dedicated to providing a welcoming and safe environment for everyone. We require that all members are at least 18 years old. This will help us maintain a high bar of accountability and experience, and it will make it easier to deal with scenarios in which members do not meet that high bar. 
 
 ## Applicability and Scope
 
