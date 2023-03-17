@@ -2,7 +2,7 @@
 
 ## Our Goal
 
-This community is dedicated to providing a welcoming and safe environment for everyone. We require that all members are at least 18 years old. This will help us maintain a high bar of accountability and experience, and it will make it easier to deal with scenarios in which members do not meet that high bar. 
+This community is dedicated to providing a welcoming and safe environment for everyone. We do not tolerate harassment of members in any form.
 
 ## Applicability and Scope
 
@@ -10,7 +10,9 @@ This code of conduct applies to all of this community's spaces, including public
 
 ## Our Standards
 
-We hope to create an environment in which diverse individuals can collaborate and interact in a positive and affirming way. Examples of behavior that contributes to creating this sort of environment include:
+We require all members to be least 18 years old. This will help us maintain a high bar of accountability and experience, and it will make it easier to deal with scenarios in which members do not meet that high bar. We hope to create an environment in which diverse individuals can collaborate and interact in a positive and affirming way. 
+
+Examples of behavior that contributes to creating this sort of environment include:
 
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
