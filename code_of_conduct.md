@@ -14,6 +14,7 @@ We require all members to be least 18 years old. This will help us maintain a hi
 
 Examples of behavior that contributes to creating this sort of environment include:
 
+* Communicating respectfully and professionally
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
@@ -33,17 +34,18 @@ Examples of unacceptable behavior by participants include:
 * Physical contact and simulated physical contact (eg, textual descriptions like "hug" or "backrub") without consent or after a request to stop
 * Threats of violence
 * Incitement of violence towards any individual or group, including encouraging a person to commit suicide or to engage in self-harm
-* Deliberate intimidation
+* Discriminatory, derogatory, aggressive, hostile, or intimidating messages or content
 * Stalking or following - online or in the physical world
 * Harassing photography or recording, including logging online activity for harassment purposes
 * Sustained disruption of discussion
 * Unwelcome sexual attention
 * Patterns of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
-* Continued one-on-one communication after requests to cease
 * Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse
 * Publication of non-harassing private communication
-* Jokes that resemble the above, such as "hipster racism", still count as harassment even if meant satirically or ironically
 * Plagiarization or unauthorized use of others' content, code, or imagery
+* Archiving the #mental-health channel or sharing its contents outside of this community
+* Any targeted behavior that continues after a member has asked that it stops
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
 If you have questions or concerns about these issues please feel free to message an admin or ask for an opportunity to explore the issue with a moderator and volunteers.
 
@@ -65,7 +67,7 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 ## Consequences
 
-Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from the community and identification of the participant as a harasser to other members. At the discretion of the admins, or by request, one or more of the parties involved may request to discuss the violation and how to avoid similar situations in the future.
+Participants asked to stop any unacceptable behavior are expected to comply immediately. If a participant engages in unacceptable behavior, the administrators may take any action they deem appropriate, up to and including expulsion from the community and identification of the participant as a harasser to other members. At the discretion of the admins, or by request, one or more of the parties involved may request to discuss the violation and how to avoid similar situations in the future.
 
 ## Acknowledgements
 
